@@ -6,7 +6,7 @@
 
 ## photoshop
 
-![photoshop을 이용한 캐릭터 만들기](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
+(https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
 
 ## invideo.ai
 invideo AI로 2025년 큰 이슈에 관한 유튜브 쇼츠 영상을 만들어 봤습니다.
