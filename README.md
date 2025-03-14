@@ -5,7 +5,7 @@
 ***
 
 ## 생성형 AI
-(https://github.com/ouseok00/generative-AI/blob/main/README.md)
+(https://github.com/ouseok00/generative-AI.git)
 
 ## Photoshop
 (https://github.com/ouseok00/Photoshop.git)
