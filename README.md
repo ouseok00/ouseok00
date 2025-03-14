@@ -10,5 +10,4 @@
 ***
 
 #ppt,웹페이지
-
 [gamma.app과 felo.ai를 이용한 ppt 만들기](https://band.us/band/97542809/post/11)
