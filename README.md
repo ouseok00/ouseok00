@@ -4,3 +4,6 @@
 2. 2025년 3월 6일부터 9월16일까지 우송대학교 it 교육센터에서 로봇응용 SW 전문가 양성과정을 배우게 되었습니다.
 ***
 
+**photoshop
+
+![조우석](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
