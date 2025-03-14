@@ -6,4 +6,4 @@
 
 **photoshop
 
-[조우석](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
+[photoshop을 이용한 캐릭터 만들기](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
