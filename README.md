@@ -6,7 +6,7 @@
 
 ## photoshop
 
-(https://github.com/ouseok00/2025Robot/blob/main/ouseok.jpg)
+(https://github.com/ouseok00/Photoshop.git)
 
 ## invideo.ai
 invideo AI로 2025년 큰 이슈에 관한 유튜브 쇼츠 영상을 만들어 봤습니다.
