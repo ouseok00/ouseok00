@@ -6,4 +6,4 @@
 
 **photoshop
 
-![조우석](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
+[조우석](https://github.com/user-attachments/assets/a734f947-6310-4c67-abbf-33959220e1b0)
