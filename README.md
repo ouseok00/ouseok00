@@ -7,6 +7,7 @@
 
 
 ##포토샵
+
 [포토샵 간단한 캐릭터 만들기](https://github.com/user-attachments/assets/b09adfc1-b941-46c0-9735-cd00f19c3c91)
 
 ##ppt,웹페이지
