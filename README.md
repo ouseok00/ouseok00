@@ -9,3 +9,6 @@
 
 ## Photoshop
 (https://github.com/ouseok00/Photoshop.git)
+
+## Python
+(https://github.com/ouseok00/Python.git)
