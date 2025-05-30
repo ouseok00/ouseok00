@@ -46,7 +46,7 @@ GUI APP을 만들어서 웹캠으로 찍은 사진들이 내 파일에 저장될
 
 https://github.com/ouseok00/Qt-Designer
 
-##pyQtQUI(2025-04-28)
+## pyQtQUI(2025-04-28)
 pyQT를 이용하여 GUI를 만들었습니다.
 
 https://github.com/ouseok00/pyQTGUI
