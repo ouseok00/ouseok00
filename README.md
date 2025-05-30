@@ -21,4 +21,6 @@
 아래는 현재 제가 교육을 받으면서 실습을 하고 repository를 만든 내용들입니다.
 
 ```python```
+# webapp
+webapp을 만들고 flask를 이용해 app,py에 간단한 내용을 입력한 뒤 addbook.txt 파일에 csv 형식으로 저장하는 간단한 웹앱
 https://github.com/ouseok00/webApp
