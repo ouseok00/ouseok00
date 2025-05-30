@@ -20,7 +20,17 @@
 
 # 수업 내용
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  **Python**
+## Qt-Designer
+GUI APP을 만들어서 웹캠으로 찍은 사진들이 내 파일에 저장될 수 있도록 하는 방법
+
+https://github.com/ouseok00/Qt-Designer
+
 ## webapp
 webapp을 만들고 flask를 이용해 app,py에 간단한 내용을 입력한 뒤 addbook.txt 파일에 csv 형식으로 저장하는 간단한 웹앱
 
 https://github.com/ouseok00/webApp
+
+## webappcam
+webapp을 만든 것에 캠을 연결하여 직접 찰영한 후 이미지를 저장하는 기능
+
+https://github.com/ouseok00/webappcam
